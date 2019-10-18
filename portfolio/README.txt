@@ -48,5 +48,8 @@ Credits:
         Battery-Bot - Frank Wang (Unsplash)
         Blur - Kevin Ku (Pexels)
         Code-Coffee - Rahu (Pixabay)
-
+        Books - Free-Photos (Pixabay)
+        Solar - Pixabay (Pixabay)
+        Dishes - Paweł Czerwiński (Unspalsh)
+        Astronaut - Pixabay (Pixabay)
         
