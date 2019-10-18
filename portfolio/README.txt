@@ -30,6 +30,8 @@ Credits:
 	Demo Images:
 		Felicia Simion (ineedchemicalx.deviantart.com)
 		Unsplash (unsplash.com)
+        Pixabay (pixabay.com)
+        Pexels (pexels.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
@@ -38,3 +40,8 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+    Specific Photos: 
+        Lighthouse - MoneyforCoffee (Pixabay)
+        Profile - alvaro11basket (Pixabay)
+        
