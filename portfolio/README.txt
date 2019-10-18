@@ -44,4 +44,9 @@ Credits:
     Specific Photos: 
         Lighthouse - MoneyforCoffee (Pixabay)
         Profile - alvaro11basket (Pixabay)
+        Circuits - Free Creative Stuff (Pexels)
+        Battery-Bot - Frank Wang (Unsplash)
+        Blur - Kevin Ku (Pexels)
+        Code-Coffee - Rahu (Pixabay)
+
         
