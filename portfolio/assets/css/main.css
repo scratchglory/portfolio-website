@@ -1778,7 +1778,7 @@ input, select, textarea {
 		.image.featured {
 			display: block;
 			width: 100%;
-			margin: 0 0 2em 0;
+            margin: 0 0 2em 0;
 		}
 
 		.image.left {
@@ -2102,7 +2102,7 @@ input, select, textarea {
 	#logo {
 		position: relative;
 		margin: 1.75em 1.5em 1.5em 1.5em;
-		min-height: 48px;
+        min-height: 48px;
 		cursor: default;
 	}
 
@@ -2255,7 +2255,7 @@ input, select, textarea {
 			#main > section.one {
 				background-color: #81918E;
                 /* background-image: url("../../images/banner.jpg"); */
-                background-image: url("../../images/lighthouse.jpg");
+                background-image: url("../../images/code-coffee.jpg");
 			}
 
 			#main > section.two {
@@ -2600,6 +2600,24 @@ input, select, textarea {
 
 			.container {
 				padding: 0 15px 0 15px;
+            }
+
+            div#logo {
+                height: 75px;
+            }
+            
+            .image img {
+			display: block;
+			width: 100%;
+		    }
+
+            .image.avatar48 {
+                height: 100%;
+            }
+
+			.image.avatar48 img {
+				width: 50%;
+                height: 100%;
 			}
 
 		/* List */
@@ -2637,4 +2655,66 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
-	}
+    }
+    
+    /* Cusp */
+    @media screen and (min-width: 737px) and (max-width: 960px) {
+        
+			.container {
+				padding: 0 15px 0 15px;
+            }
+
+            div#logo {
+                height: 75px;
+            }
+            
+            .image img {
+			display: block;
+			width: 100%;
+		    }
+
+            .image.avatar48 {
+                height: 100%;
+            }
+
+			.image.avatar48 img {
+				width: 50%;
+                height: 100%;
+            }
+            
+            /* List */
+
+			ul.icons a {
+				width: 2em;
+				font-size: 1.25em;
+			}
+
+		/* Main */
+
+			#main > section {
+				padding: 2em 0;
+			}
+
+			#main section.cover {
+				padding: 4em 0em;
+			}
+
+				#main section.cover header {
+					padding: 0 1em;
+				}
+
+		/* Footer */
+
+			#footer .copyright li {
+				display: block;
+				line-height: 1.25em;
+				border: 0;
+				padding: 0;
+				margin: 1em 0 0 0;
+			}
+
+				#footer .copyright li:first-child {
+					margin-top: 0;
+				}
+
+    }

@@ -42,7 +42,7 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
     Specific Photos: 
-        Lighthouse - MoneyforCoffee (Pixabay)
+        Yes - Jon Tyson (Unsplash)
         Profile - alvaro11basket (Pixabay)
         Circuits - Free Creative Stuff (Pexels)
         Battery-Bot - Frank Wang (Unsplash)
@@ -50,6 +50,6 @@ Credits:
         Code-Coffee - Rahu (Pixabay)
         Books - Free-Photos (Pixabay)
         Solar - Pixabay (Pixabay)
-        Dishes - Paweł Czerwiński (Unspalsh)
-        Astronaut - Pixabay (Pixabay)
+        Dishes - Paweł Czerwiński (Unsplassh)
+        Astronaut - Pixabay (Pexels)
         
