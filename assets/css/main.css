@@ -211,6 +211,10 @@ input, select, textarea {
 	}
 
 /* Container */
+    .container ul{
+        list-style-type: none;
+    }
+
 
 	.container {
 		margin: 0 auto;
@@ -1762,8 +1766,8 @@ input, select, textarea {
 		}
 
 			.image.avatar48 img {
-				width: 100%;
-                height: 100%;
+				width: 90%;
+                height: auto;
                /* width: 48px;
                 height: 48px; */
 			}
