@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "name": "portfolio-website",
+  "builds": [
+    {
+      "src": "portfolio-website/package.json",
+      "use": "@now/static-build",
+      "config": {
+        "distDir": "build"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "portfolio-website/$1"
+    }
+  ]
+}
